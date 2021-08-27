@@ -48,6 +48,11 @@ Eu sou desenvolvedor {backend | PHP}  && instrutor técnico [@douglasgnunes](htt
   <img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg">  
 </code>
 <br />
+<code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+  <img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">  
+</code>
+<br />
 <!--
 **douglasgnunes/douglasgnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
